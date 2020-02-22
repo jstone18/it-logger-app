@@ -23,6 +23,8 @@ const EditLogModal = () => {
 		<div id="edit-log-modal" className="modal" style={modalStyle}>
 			<div className="modal-content">
 				<h4>Edit System Log</h4>
+
+				{/* Log message */}
 				<div className="row">
 					<div className="input-field">
 						<input
@@ -36,6 +38,8 @@ const EditLogModal = () => {
 						</label>
 					</div>
 				</div>
+
+				{/* Select tech */}
 				<div className="row">
 					<div className="input-field">
 						<select
@@ -52,6 +56,8 @@ const EditLogModal = () => {
 						</select>
 					</div>
 				</div>
+
+				{/* Attention checkbox */}
 				<div className="row">
 					<div className="input-field">
 						<p>
@@ -69,6 +75,8 @@ const EditLogModal = () => {
 					</div>
 				</div>
 			</div>
+
+			{/* Modal footer */}
 			<div className="modal-footer">
 				<button
 					className="modal-close waves-effect blue waves-light btn"
