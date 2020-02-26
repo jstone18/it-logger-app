@@ -1,10 +1,30 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": true,
+      "id": 1,
+      "message": "Update system software on workstation 008",
       "tech": "Jon Doe",
-      "id": 1
+      "attention": true,
+      "date": "2020-02-26T20:15:37.342Z"
+    },
+    {
+      "message": "Replaced hard drive on workstation 432",
+      "attention": false,
+      "tech": "Jon Doe",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "Replace graphics card in workstation 432",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2020-02-26T20:15:27.862Z"
+    },
+    {
+      "message": "New wireless module in server",
+      "attention": false,
+      "tech": "Sam Smith",
+      "id": 4
     }
   ],
   "techs": [
