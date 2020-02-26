@@ -8,10 +8,11 @@
       "date": "2020-02-26T20:15:37.342Z"
     },
     {
-      "message": "Replaced hard drive on workstation 432",
-      "attention": false,
+      "id": 2,
+      "message": "Replaced hard drive on workstation 1542",
       "tech": "Jon Doe",
-      "id": 2
+      "attention": false,
+      "date": "2020-02-26T20:18:57.956Z"
     },
     {
       "id": 3,
