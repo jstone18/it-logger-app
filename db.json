@@ -32,6 +32,24 @@
       "attention": true,
       "tech": "John Doe",
       "id": 5
+    },
+    {
+      "message": "Replace memory in workstation 212",
+      "attention": true,
+      "tech": "Mark Williams",
+      "id": 6
+    },
+    {
+      "message": "Network card replaced on workstation 9909",
+      "attention": false,
+      "tech": "Lisa Smith",
+      "id": 7
+    },
+    {
+      "message": "Server 789 down ",
+      "attention": true,
+      "tech": "Mark Williams",
+      "id": 8
     }
   ],
   "techs": [
@@ -49,6 +67,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Williams",
+      "id": 4
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Smith",
+      "id": 5
     }
   ]
 }
