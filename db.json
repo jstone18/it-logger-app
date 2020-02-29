@@ -40,16 +40,18 @@
       "id": 6
     },
     {
+      "id": 7,
       "message": "Network card replaced on workstation 9909",
+      "tech": "Sara Wilson",
       "attention": false,
-      "tech": "Lisa Smith",
-      "id": 7
+      "date": "2020-02-29T00:30:47.380Z"
     },
     {
+      "id": 8,
       "message": "Server 789 down ",
-      "attention": true,
-      "tech": "Mark Williams",
-      "id": 8
+      "tech": "Sam Smith",
+      "attention": false,
+      "date": "2020-02-29T00:30:57.597Z"
     }
   ],
   "techs": [
@@ -72,11 +74,6 @@
       "firstName": "Mark",
       "lastName": "Williams",
       "id": 4
-    },
-    {
-      "firstName": "Lisa",
-      "lastName": "Smith",
-      "id": 5
     }
   ]
 }
